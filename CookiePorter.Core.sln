@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookiePorter.Core", "CookiePorter.Core\CookiePorter.Core.csproj", "{099EA949-D55E-4288-857E-5DA2B599E128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookiePorter.Cli", "CookiePorter.Cli\CookiePorter.Cli.csproj", "{0BD6B3F3-B357-4AB9-90A6-0D15B96171CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099EA949-D55E-4288-857E-5DA2B599E128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099EA949-D55E-4288-857E-5DA2B599E128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099EA949-D55E-4288-857E-5DA2B599E128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099EA949-D55E-4288-857E-5DA2B599E128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD6B3F3-B357-4AB9-90A6-0D15B96171CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD6B3F3-B357-4AB9-90A6-0D15B96171CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD6B3F3-B357-4AB9-90A6-0D15B96171CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD6B3F3-B357-4AB9-90A6-0D15B96171CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EF82372-C006-4FEE-A935-2E7C488B0A87}
+	EndGlobalSection
+EndGlobal

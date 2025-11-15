@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CookiePorter.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "export edge Default out.json"
+    }
+  }
+}
